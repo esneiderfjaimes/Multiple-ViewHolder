@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multiple ViewHolder</string>
+    <string name="image_card">Image Card</string>
+</resources>

@@ -1,0 +1,2969 @@
+{
+  "metadata": {
+    "title": "MercadoPlay - Hub (CL)",
+    "description": "Página de Contenidos",
+    "keywords": "Entertainment, movie, series, live"
+  },
+  "components": [
+    {
+      "type": "input_search",
+      "props": {}
+    },
+    {
+      "type": "media_feed",
+      "props": {
+        "content": {
+          "items": [
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "The King's Man: El Origen",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Holiday, Special, Music",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Spider-Man: Sin camino a casa",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Holiday, Special, Music, Gospel, Concert",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "La masacre de Texas",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Scream 5",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Music, Alternative",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Uncharted: Fuera del mapa",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Special, Comedy, Standup",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Venganza a golpes",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Cricket, Crime, Crime drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Encanto",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Track/field, Trampoline Gymnastics, Travel",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "La Casa Gucci",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Self improvement, Sepak takraw",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Eternals",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Cásate conmigo",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Licorice Pizza",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Batman",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Kimi",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Amor Sin Barreras",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Ghostbusters: El Legado",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Cricket, Crime, Crime drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "El Callejón De Las Almas Perdidas",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Fantasy, Fashion, Fencing",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Agentes 355",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|R&B, Racquet, Reality",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Matrix Resurrecciones",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Science fiction, Self improvement, Sepak takraw",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Sing 2: ¡Ven y canta de nuevo!",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Mystery, Nature",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Duna",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Muerte en el Nilo",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Classic Sport Event, Classical",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "La Era de Hielo: Las aventuras de Buck",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Children, Adventure",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "A través de mi ventana",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Mixed martial arts, Modern pentathlon",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "007: Sin Tiempo Para Morir",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Freestyle Skiing, French",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Bigbug",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Go, Golf, Gospel",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Persecución",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Biography",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Doctor Strange en el multiverso de la locura",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Auction, Australian rules football",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Eiffel",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Bluegrass, Blues",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Sin salida",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Horse racing",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Venom: Carnage Liberado",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Outdoors, Parade, Paralympics",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Quiero que vuelvas",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Children, Children-music",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Belfast",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Bicycle racing, Billiards",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Doraemon: Nobita y los héroes del espacio",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|News, Newsmagazine, Nordic Combined",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Amarrados al amor (Love and Leashes)",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Dog racing, Dog show, Dog sled",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Resident Evil: Bienvenidos a Raccoon City",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Wrestling, Yacht racing",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "El estafador de Tinder (The Tinder Swindler)",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Winter Olympics, World, World history",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Rey Richard: Una Familia Ganadora",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Fantasy, Fashion, Fencing, Field hockey",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Shang-Chi y La Leyenda De Los Diez Anillos",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Romance, Drama",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Gasoline Alley",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Intl soccer, Jazz, Judo, Karaoke, Karate",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "Moonfall",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Rhythmic Gymnastics, Ringuette, Road cycling",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "No me mates",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Movie|Holiday special, Holiday-children, Holiday-children special, Home improvement",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "type": "media_card",
+              "props": {
+                "padding": "NONE",
+                "hierarchy": "PRIMARY",
+                "style": "ELEVATED",
+                "type": "none",
+                "mute_default": false,
+                "header": "ACTIVE",
+                "content": {
+                  "header_static": {
+                    "background": {
+                      "type": "image"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "header_active": {
+                    "background": {
+                      "type": "card_video"
+                    },
+                    "top_left_item": {
+                      "type": "badge"
+                    },
+                    "bottom_left_item": {
+                      "type": "badge"
+                    },
+                    "progress": {
+                      "type": "progress"
+                    }
+                  },
+                  "description": {
+                    "title": {
+                      "type": "typography",
+                      "props": {
+                        "type": "TITLE",
+                        "label": "El misterio de Soho",
+                        "size": "s"
+                      }
+                    },
+                    "subtitle": {
+                      "type": "typography",
+                      "props": {
+                        "type": "BODY",
+                        "label": "Serie|Entertainment, Environment, Equestrian",
+                        "size": "s"
+                      }
+                    },
+                    "tags": [
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      },
+                      {
+                        "type": "tag"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "track": {
+    "melidata": {
+      "path": "/hub",
+      "type": "view",
+      "event_data": {}
+    }
+  }
+}
